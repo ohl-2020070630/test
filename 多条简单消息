@@ -1,0 +1,4 @@
+message="My name is Huilian"
+print(message)
+joke="This is a private question"
+print(joke)
