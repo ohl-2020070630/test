@@ -1,0 +1,5 @@
+names=['He Miao','Yang Shuying','Ouyan Lifeng']
+says="good,morning!"
+print(names[0]+" "+says)
+print(names[1]+" "+says)
+print(names[2]+" "+says)
