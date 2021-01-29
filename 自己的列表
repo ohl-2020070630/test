@@ -1,0 +1,3 @@
+ways=['motorcycle','car']
+print("I would like to own a "+ways[0]+".")
+print("I would like to own a "+ways[1]+".")
