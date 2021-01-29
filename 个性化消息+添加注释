@@ -1,2 +1,3 @@
 name="Eric"
+#向她/他问个好
 print("Hello "+name+","+"would you like to learn some Python today?")
