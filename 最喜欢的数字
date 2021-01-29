@@ -1,0 +1,2 @@
+festival=str(6)
+print("My fastival number is"+" "+festival)
