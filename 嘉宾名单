@@ -1,0 +1,5 @@
+people=['xiaoming','xiaohong','xiaolan','xiaoki']
+connect=("I'd like to have dinner with you.")
+print(people[0]+","+connect)
+print(people[2]+","+connect)
+print(people[-1]+","+connect)
