@@ -1,0 +1,4 @@
+name=['xiaomi','xiaoho','xiaowan','xiaobi']
+number=str(len(name))
+saying=(" people are having dinner with you.")
+print(number+saying)
