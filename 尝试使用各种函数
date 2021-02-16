@@ -1,0 +1,3 @@
+liebiao=['maintans','chengdu']
+print(sorted(liebiao))
+print(len(liebiao))
